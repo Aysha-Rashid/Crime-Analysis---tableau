@@ -13,5 +13,5 @@ Analysing crime data over different time periods is essential for several reason
 Comparative analysis is essential for gaining a broader perspective on crime data, enabling more informed decision-making, resource allocation, policy development, and provide preventative solutions.
 
 #### Lastly
-##### **Dashboard**
+**Dashboard**
 A very important tool needed to display all the collected details in much simplier and visualized way. 
