@@ -6,7 +6,7 @@ One of the ways is crime analysis which  helps law enforcement agencies understa
 ### We can achieve through different types of analysis
 #### However we limit it to two analysis for this project
 
-**Time Period Analysis**
+**Time Period Analysis**<br></br>
 Analysing crime data over different time periods is essential for several reasons. It helps identify temporal patterns and trends in criminal activity, allowing law enforcement and communities to tailor their responses accordingly.
 
 **Comparative Analysis**
